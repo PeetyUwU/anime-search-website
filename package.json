@@ -1,0 +1,16 @@
+{
+  "name": "anime-search-website",
+  "version": "1.0.0",
+  "description": "search anime character",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peety",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "request-ip": "^2.1.3",
+    "serve-favicon": "^2.5.0"
+  }
+}

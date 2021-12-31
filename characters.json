@@ -1,0 +1,61 @@
+[{
+    "name": "Mei Misaki",
+    "gender": "female",
+    "picture": "./another/Mei_Misaki.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Kouichi Sakakibara",
+    "gender": "male",
+    "picture": "./another/Kouichi_Sakakibara.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Izumi Akazawa",
+    "gender": "female",
+    "picture": "./another/Izumi_Akazawa.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Misaki Fujioka",
+    "gender": "female",
+    "picture": "./another/Misaki_Fujioka.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Naoya Teshigawara",
+    "gender": "male",
+    "picture": "./another/Naoya_Teshigawara.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Yukari Sakuragi",
+    "gender": "female",
+    "picture": "./another/Yukari_Sakuragi.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Tomohiko Kazami",
+    "gender": "male",
+    "picture": "./another/Tomohiko_Kazami.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Chibiki Tatsuji",
+    "gender": "male",
+    "picture": "./another/Chibiki_Tatsuji.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Sanae Mizuno",
+    "gender": "female",
+    "picture": "./another/Sanae_Mizuno.img",
+    "anime": "Another",
+    "age": "15"
+}, {
+    "name": "Katsumi Matsunaga",
+    "gender": "male",
+    "picture": "./another/Katsumi_Matsunaga.img",
+    "anime": "Another",
+    "age": "15"
+}]
